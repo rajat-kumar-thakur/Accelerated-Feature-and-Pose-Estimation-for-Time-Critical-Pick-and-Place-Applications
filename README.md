@@ -1,1 +1,1 @@
-# Edge-and-Corner-Detection-in-Unorganized-Point-Clouds
+# Accelerated Feature and Pose Estimation for Time-Critical Pick-and-Place Applications
